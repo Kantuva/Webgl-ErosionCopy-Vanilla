@@ -1,4 +1,6 @@
-﻿## Terrain erosion sandbox in WebGl
+﻿## This is merely a vanilla fork of the great work done by llleeexxxoooppp, it'll remain untouched from his previous work
+
+## Terrain erosion sandbox in WebGl
 
 ![](screenshot/tt.PNG)
 ![](screenshot/mtnn.PNG)
